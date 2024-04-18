@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c86346fac45e77eb20fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Decimal2Binary",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Decimal2Binary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Decimal2Binary-Debug-7423c1e4b50eae1cac76.json",
+					"name" : "Decimal2Binary",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Decimal2Binary_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Decimal2Binary_autogen-Debug-839d7d098d48561fadf8.json",
+					"name" : "Decimal2Binary_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Decimal2Binary_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Decimal2Binary_autogen_timestamp_deps-Debug-afe97efe0c3e26f93a69.json",
+					"name" : "Decimal2Binary_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug",
+		"source" : "C:/Users/20021/Documents/Qt/Decimal2Binary"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

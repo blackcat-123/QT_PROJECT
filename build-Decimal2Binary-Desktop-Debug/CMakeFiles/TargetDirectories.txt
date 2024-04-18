@@ -1,0 +1,9 @@
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/Decimal2Binary.dir
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/list_install_components.dir
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/install.dir
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/install/local.dir
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/install/strip.dir
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/Decimal2Binary_autogen_timestamp_deps.dir
+C:/Users/20021/Documents/Qt/build-Decimal2Binary-Desktop-Debug/CMakeFiles/Decimal2Binary_autogen.dir
